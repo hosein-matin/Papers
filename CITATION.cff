@@ -1,11 +1,13 @@
 cff-version: 1.2.0
-title: "Your Paper Title Here"
+title: "Regularity of the Time-to-Collision Map and Convergence of Learned Hamilton–Jacobi Solutions"
 authors:
-  - family-names: "YourLastName"
-    given-names: "YourFirstName"
+  - family-names: "Nick Zinat Matin"
+    given-names: "Hossein"
     orcid: "https://orcid.org/0000-0000-0000-0000" # Optional
-  - family-names: "CoAuthorLastName"
-    given-names: "CoAuthorFirstName"
+  - family-names: "Yeo"
+    given-names: "Yuneil"
+  - family-names: "Delle Monache"
+    given-names: "Maria Laura"
 version: 1.0.0
-date-released: 2026-10-02
-url: "https://github.com/yourusername/your-repository"
+date-released: 2026-09-15
+url: "https://github.com/hosein-matin/Papers"
