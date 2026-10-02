@@ -1,13 +1,7 @@
 cff-version: 1.2.0
-title: "Regularity of the Time-to-Collision Map and Convergence of Learned Hamilton–Jacobi Solutions"
-authors:
-  - family-names: "Nick Zinat Matin"
-    given-names: "Hossein"
-    orcid: "https://orcid.org/0000-0000-0000-0000" # Optional
-  - family-names: "Yeo"
-    given-names: "Yuneil"
-  - family-names: "Delle Monache"
-    given-names: "Maria Laura"
-version: 1.0.0
-date-released: 2026-09-15
-url: "https://github.com/hosein-matin/Papers"
+@article{matin2026TTCandHJB,
+authors = {Nick Zinat Matin, Hossein, Yeo, Yuneil, Delle Monache, Maria Laura},
+title = {Regularity of the Time-to-Collision Map and Convergence of Learned Hamilton–Jacobi Solutions},
+journal = {https://github.com/hosein-matin/Papers},
+year = {2026}
+}
